@@ -1,10 +1,38 @@
-### Hi there, welcome to my profile 👋
-🧑🏼‍🦲 - My name is Brian and I am a fan of .Net technology and web development.
+# Hi there, welcome to my profile 👋
 
-👨🏻‍💻 🇨🇺 - I am a software engineer graduated from the University of Computer Science of Cuba.
+- 🧑🏼‍🦲 My name is Brian and I am a fan of .Net technology and web development.
 
-🍕 - I like pizza. Who can't like pizza?!?!
+- 👨🏻‍💻 🇨🇺  I am a software engineer graduated from the University of Computer Science of Cuba.
 
+- 🍕 I like pizza. Who can't like pizza?!?!
+
+## Contact 🌐
+- Email: brianpl990227@gmail.com
+
+- .Net Community: https://t.me/+4aZdHLLxia85Njdh
+
+- LinkedIn: https://www.linkedin.com/in/brian-perez-lopez-2948801a0/
+
+## Skills 🔧
+### Technologies and best practices 👨‍💻
+- C#
+- .Net
+- ASP.Net API
+- ASP.Net MVC
+- Entity Framework
+- PostgreSQL
+- MySQL
+- Vue.js
+- React.js
+- Blazor WebAssembly
+- Docker
+- Clean architecture
+- SOLID Principles
+
+### Project 👨‍🏫
+- SCRUM
+- Github
+- Software engineering
 
 
 
