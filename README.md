@@ -36,8 +36,6 @@
 
 ## Statistics
 
-![Estadísticas de GitHub de Brian](https://github-readme-stats.vercel.app/api?username=brianpl990227&show_icons=true&theme=radical)
-
 ![Lenguajes más usados por Brian](https://github-readme-stats.vercel.app/api/top-langs/?username=brianpl990227&layout=compact&theme=radical)
 
 <!--
