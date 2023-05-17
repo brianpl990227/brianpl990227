@@ -34,10 +34,6 @@
 - Github
 - Software engineering
 
-## Statistics
-
-![Lenguajes más usados por Brian](https://github-readme-stats.vercel.app/api/top-langs/?username=brianpl990227&layout=compact&theme=radical)
-
 <!--
 **brianpl990227/brianpl990227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
