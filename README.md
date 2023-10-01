@@ -1,8 +1,8 @@
 # Hi there, welcome to my profile 👋
 
-- 🧑🏼‍🦲 My name is Brian and I am a fan of .Net technology and web development.
+- 😄 My name is Brian and I am a fan of .Net technology and web development.
 
-- 👨🏻‍💻 🇨🇺  I am a software engineer graduated from the University of Computer Science of Cuba.
+- 👨🏻‍💻 I am a software engineer graduated from the University of Computer Science of Cuba.
 
 - 🍕 I like pizza. Who can't like pizza?!?!
 
