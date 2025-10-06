@@ -12,31 +12,34 @@
 
 ## 💫 Sobre mí
 
-😄 Soy un ingeniero de software apasionado por la tecnología .Net y el desarrollo web.
+Ingeniero de Software graduado de la Universidad de Ciencias Informáticas de Cuba, especializado en tecnologías .NET y desarrollo web full-stack. Con sólida experiencia en arquitectura de software, me enfoco en crear soluciones escalables y mantenibles que resuelven problemas reales de negocio.
 
-👨🏻‍💻 Graduado de la Universidad de Ciencias Informáticas de Cuba, me especializo en crear soluciones innovadoras que resuelvan problemas reales.
-
-🚀 Disfruto trabajando tanto en el backend como en el frontend, creando aplicaciones completas y robustas.
-
-🍕 Me encanta la pizza. ¿A quién no le gusta la pizza?!?!
+Mi expertise abarca desde el desarrollo backend con C# y .NET Core hasta frontend moderno con Vue.js, Nuxt.js y Angular. Aplico principios de Clean Architecture y buenas prácticas de desarrollo para garantizar código de alta calidad.
 
 ## 🛠️ Tecnologías y Herramientas
 
 ### Lenguajes de Programación
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 ### Frameworks y Bibliotecas
 <p>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="Nuxt.js" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Fiber" />
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework" />
+  <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="xUnit" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
 </p>
 
@@ -48,13 +51,15 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### Cloud y DevOps
+### Herramientas y DevOps
 <p>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ## 📊 Estadísticas de GitHub
@@ -67,28 +72,40 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianpl990227&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
 
-## 🔭 Actualmente estoy trabajando en
+## 🎯 Áreas de Especialización
 
-- Desarrollo de aplicaciones web con ASP.NET Core y Vue.js
-- Mejora de mis habilidades en arquitectura de software
-- Exploración de tecnologías cloud y DevOps
+- **Backend Development**: Diseño e implementación de APIs RESTful con ASP.NET Core y Entity Framework
+- **Frontend Development**: Aplicaciones SPA modernas con Vue.js, Nuxt.js y Angular
+- **Arquitectura de Software**: Clean Architecture, patrones de diseño y principios SOLID
+- **Pruebas**: Desarrollo guiado por pruebas (TDD) con xUnit y estrategias de testing
+- **DevOps**: CI/CD, containerización con Docker y despliegue en Azure
 
-## 🌱 Estoy aprendiendo
+## 🌱 Aprendizaje Continuo
 
-- Arquitecturas de microservicios
-- Contenedores y orquestación con Docker y Kubernetes
-- Desarrollo de aplicaciones móviles multiplataforma
+- Profundizando en arquitecturas de microservicios y event-driven architecture
+- Explorando Kubernetes para orquestación de contenedores
+- Mejorando habilidades en Go para servicios de alto rendimiento
+- Estudiando patrones avanzados de diseño distribuido
 
 ## 💼 Proyectos Destacados
 
-### [Portfolio Personal](https://brianpl990227.github.io/portfolio/)
-Mi sitio web personal donde muestro mis proyectos y habilidades.
+### [Clean Architecture Template](https://github.com/brianpl990227/CleanArchitectureTemplate)
+Plantilla de arquitectura limpia para proyectos .NET 6, implementando las mejores prácticas de diseño y separación de responsabilidades.
+
+### [DotNet Group](https://github.com/brianpl990227/dotnetgroup)
+Proyecto de aprendizaje colaborativo con C# y .NET, enfocado en compartir conocimientos y buenas prácticas.
+
+### [Go Fiber API](https://github.com/brianpl990227/go-fiber)
+API REST desarrollada con Go y el framework Fiber, demostrando capacidades de alto rendimiento.
+
+### [Unit Testing Examples](https://github.com/brianpl990227/Unit-Test-XUnit)
+Colección de ejemplos de pruebas unitarias con xUnit, patrones de testing y mejores prácticas.
 
 ### [Desarrolladores .Net](https://github.com/Desarrolladores-Net)
 Comunidad de desarrolladores enfocada en tecnologías .NET y JavaScript.
 
-### [PetLand](https://github.com/Desarrolladores-Net/PetLand)
-Plataforma para adopción de mascotas desarrollada con ASP.NET y Nuxt.js.
+### [Portfolio Web](https://github.com/brianpl990227/dotnet-web)
+Sitio web desarrollado con Vue.js mostrando proyectos y capacidades técnicas.
 
 ## 📫 Contáctame
 
