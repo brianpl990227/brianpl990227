@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:512BD4,100:0E75B6&height=230&section=header&text=Brian%20P%C3%A9rez%20L%C3%B3pez&fontSize=50&fontColor=ffffff&fontAlignY=28&desc=Software%20Engineer%20%C2%B7%20.NET%20%C2%B7%20Full-Stack&descSize=18&descAlignY=45&animation=fadeIn" width="100%" alt="Brian Pérez López" />
+<img src="./assets/header.svg" width="100%" alt="Brian Pérez López — Software Engineer · .NET &amp; Full-Stack" />
 
 <a href="https://brianperezlopez.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=620&lines=Convierto+problemas+de+negocio+en+software+%F0%9F%9A%80;C%23+%C2%B7+ASP.NET+Core+%C2%B7+Vue+%C2%B7+Angular+%C2%B7+Go;Clean+Architecture+%C2%B7+SOLID+%C2%B7+TDD;Ahora%3A+un+juego+de+cartas+en+.NET+10+%F0%9F%83%8F" alt="Typing SVG" />
@@ -154,7 +154,5 @@ Ahora mismo no busco trabajo, estoy muy a gusto donde estoy. Pero una buena char
 <a href="https://www.linkedin.com/in/brian-perez-lopez-2948801a0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:brianpl990227@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://t.me/+4aZdHLLxia85Njdh"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0E75B6,100:512BD4&height=120&section=footer" width="100%" alt="" />
 
 </div>
