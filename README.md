@@ -29,7 +29,7 @@ public record Developer
 {
     public string   Name      => "Brian Pérez López";
     public string   Role      => "Software Engineer · .NET & Full-Stack";
-    public string   Base      => "La Habana, Cuba 🇨🇺";
+    public string   Base      => "La Habana, Cuba";
 
     public string[] Backend   => ["C#", "ASP.NET Core", "Entity Framework", "Go"];
     public string[] Frontend  => ["Vue", "Nuxt", "Angular", "Blazor", "TypeScript"];
@@ -57,8 +57,7 @@ public record Developer
   <tr>
     <td align="center"><b>Datos</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=10" alt="PostgreSQL, MySQL, SQLite" />
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="48" />
+      <img src="./assets/datos.svg" alt="PostgreSQL, MySQL, SQLite, SQL Server" />
     </td>
   </tr>
   <tr>
